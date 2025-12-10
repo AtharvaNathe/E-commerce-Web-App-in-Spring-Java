@@ -53,11 +53,6 @@ This project integrates **Razorpay Payment Gateway** with:
 - docker-compose for MySQL + App  
 - Easy production deployment  
 
-### ▶️ Run  
-```sh
-docker-compose up --build
-
----
 
 ### 🛠️ Tech Stack
 | Layer            | Technology             |
