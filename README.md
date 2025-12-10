@@ -56,3 +56,20 @@ This project integrates **Razorpay Payment Gateway** with:
 ### ▶️ Run  
 ```sh
 docker-compose up --build
+
+
+### 🛠️ Tech Stack
+| Layer            | Technology             |
+| ---------------- | ---------------------- |
+| Backend          | Spring Boot (MVC, JPA) |
+| Frontend         | JSP, JSTL, Bootstrap   |
+| Database         | MySQL                  |
+| Payment Gateway  | Razorpay API           |
+| Containerization | Docker                 |
+| Build Tool       | Maven                  |
+| Language         | Java 17+               |
+
+
+### ✨ Developed By
+
+Atharva Nathe
