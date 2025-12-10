@@ -57,6 +57,7 @@ This project integrates **Razorpay Payment Gateway** with:
 ```sh
 docker-compose up --build
 
+---
 
 ### 🛠️ Tech Stack
 | Layer            | Technology             |
