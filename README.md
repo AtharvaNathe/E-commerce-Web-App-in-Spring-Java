@@ -1,7 +1,4 @@
 # 📱 Smartphone Store – Spring Boot Web Application  
-<p align="center">
-  <img src="logo.png" alt="Smartphone Store Logo" width="180"/>
-</p>
 
 <p align="center">
   <!-- Badges -->
