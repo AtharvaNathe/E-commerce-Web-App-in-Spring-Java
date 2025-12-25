@@ -4,7 +4,7 @@
   <!-- Badges -->
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Java-17+-007396?logo=openjdk&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSP-025E8C?logo=java&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JSP-025E8C?logo=java&logoColor=white&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/JSTL-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
